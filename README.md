@@ -1,7 +1,7 @@
 # CarZen
 A mini Car Driving project in Unity. 
 
-##Features : 
+## Features : 
 - WASD/arrow keys to drive around the car
 - Drift Mechanics
 - Dynamic Camera movement based on accelerations
