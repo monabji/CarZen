@@ -1,5 +1,6 @@
 # CarZen
-A mini Car Driving project in Unity. 
+A simple car driving sim
+
 
 ## Features : 
 - WASD/arrow keys to drive around the car
